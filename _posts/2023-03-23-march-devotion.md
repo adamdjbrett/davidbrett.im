@@ -3,9 +3,7 @@ title: "March 23 2023 devotion on 1 Corinthians 8:1-2"
 categories:
 - devotion
 ---
-1 Corinthians 8:1-2
-
-*We know that "we all have knowledge" about this issue. But while knowledge makes us feel important, it is love that strengthens the church.** Anyone who claims to know all the answers doesn't really know very much. But the person who loves God is the one whom God recognizes.*
+> *We know that "we all have knowledge" about this issue. But while knowledge makes us feel important, it is love that strengthens the church. Anyone who claims to know all the answers doesn't really know very much. But the person who loves God is the one whom God recognizes.* ~ 1 Corinthians 8:1-2
 
 Paul is answering questions sent to him about issues in the church at Corinth. In chapter 8 he addresses the issue of meat offered to idols. As he opens chapter 8 the first three verses stand out to me. (Read verses) Knowledge makes us feel important. Knowledge highlights what I know. It is a very heady thing. It is a very prideful thing. Pride is the sin that follows knowledge around. But notice that Paul says, "...it is love that strengthens the church."
 

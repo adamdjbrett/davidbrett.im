@@ -3,8 +3,7 @@ title: "May 18 2023 devotion on 1 Kings 3:3"
 categories:
 - devotion
 ---
-1 Kings 3:3
-> *Solomon showed his love for the Lord by walking according to the instructions given him by his father David, except that he offered sacrifices and burned incense on the high places*.
+> *Solomon showed his love for the Lord by walking according to the instructions given him by his father David, except that he offered sacrifices and burned incense on the high places*. ~ 1 Kings 3:3
 
 King David has died. The kingdom has passed to Solomon. He is consolidating the kingdom. Taking out some of his enemies. He is walking in the instructions of the Lord but notice -- this one word -- except. There was one area that he was holding on to. He offered sacrifices and burned incense on the high places.
 
