@@ -2,7 +2,6 @@
 title: "July 23, 2023 devotion on 1 Peter 3:8-9"
 categories:
 - devotion
-#feature_image: "/images/unsplash/andrew-seaman-Y3WEhjQivTI-unsplash.jpg"
 ---
 
 1 Peter 3:8-9
