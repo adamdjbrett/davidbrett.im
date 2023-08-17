@@ -4,7 +4,7 @@ categories:
 - devotion
 ---
 > *And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus. For it is by grace you have been saved, through faith---and this is not from yourselves, it is the gift of God &mdash; not by works, so that no one can boast. For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.* ~ Ephesians 2:6-10
-  
+<!--more-->  
 ## Reflections on Grace -- Cheap Grace vs Costly Grace
 
 The German theologian Dietrich Bonhoeffer begins his book on the *Cost of Discipleship* with a discussion of cheap grace. Bonhoeffer noted that the church in his day was at war with a version of grace that threatened the very nature of the integrity of the gospel. I would simply note that war continues. I would submit to you that cheap grace is a threat to the message of Christ in 2023.

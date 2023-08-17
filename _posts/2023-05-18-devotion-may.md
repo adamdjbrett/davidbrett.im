@@ -4,7 +4,7 @@ categories:
 - devotion
 ---
 > *Solomon showed his love for the Lord by walking according to the instructions given him by his father David, except that he offered sacrifices and burned incense on the high places*. ~ 1 Kings 3:3
-  
+<!--more-->  
 King David has died. The kingdom has passed to Solomon. He is consolidating the kingdom. Taking out some of his enemies. He is walking in the instructions of the Lord but notice -- this one word -- except. There was one area that he was holding on to. He offered sacrifices and burned incense on the high places.
 
 It is interesting to note the implications and the consequences of this one area are not immediately seen. But over time it becomes evident that there are consequences for this "except" clause. It is simply a lack of obedience. It is saying that I will obey God except in this one area. It is saying, "God you have all of me...except I want to keep this one area to myself." We will even rationalize the one area of disobedience and justify it. By holding on to that one thing is like planting seeds in the soil of the soul, eventually it will grow and create a harvest of its own. Not a harvest that you really want to see.

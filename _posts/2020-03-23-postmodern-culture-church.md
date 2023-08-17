@@ -6,9 +6,8 @@ categories:
 feature_image: "/images/unsplash/andrew-seaman-Y3WEhjQivTI-unsplash.jpg"
 ---
 One of the prevailing trends in culture today is an ever growing schism between the church and culture. Increasingly people are not going to church or if they are going to church they participate in the intimate anonymity of going to church on Sunday mornings but not necessarily engaging in other parts of the life of the church.
-
+<!--more-->  
 There are a variety of factors that keep people from fully embracing churches first people have often been hurt or burned by other churches and they have valid concerns that they could be hurt at their new church as well so they are skeptical. Unfortunately, churches have in many ways earned the skepticism of those who have been hurt by churches and those who are religious unaffiliated.
-
 
 ### Responding to Postmodern Culture
 Postmodernism is a term and concept that often gets bandied about in contemporary discourse without much critical reflection. Colloquially the term references a vague sense of skepticism towards institutions, authority, a suspicion of meta-narratives and a desire for authenticity, community, and "real" relationships. Historically speaking postmodernism is most clearly seen in art and architecture. In art postmodernism refers to the style of art that comes after French Impressionism and modernism. There are several postmodern styles of art notable examples are Jackson Pollock's Abstract Expressionism, Andy Warhol's Pop Art, and Nancy Graves sculpture Camels, among many other influential artists.
