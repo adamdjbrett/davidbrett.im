@@ -3,7 +3,7 @@ title: "The Good Shepherd"
 categories:
 - devotion
 ---
-> *"I am the good shepherd; I know my sheep and my sheep know me --- ** just as the Father knows me and I know the Father---and I lay down my life for the sheep. I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd.* ~ John 10:14-16  
+> "I am the good shepherd; I know my sheep and my sheep know me&mdash;just as the Father knows me and I know the Father&mdash;and I lay down my life for the sheep. I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd. ~ John 10:14-16  
 <!--more-->  
 Jesus in John 10 as the good shepherd. He knows his sheep and his sheep know him. It is interesting to note the different ways that sheep are led versus the manner in which cattle are led. I have watched many westerns in my growing up years. In fact, I would consider myself an expert on old western movies and tv shows. I could list my viewing credentials, but I will not because of my time allowance. Sheep are led. The shepherd is out front leading the sheep and they are following. There are usually some sheep dogs to help some of the wondering sheep to stay in the flock. Cattle are not led from the front. They are driven from the back and the sides. In fact, the official nomenclature that is used is "cattle drive." You have people on horses and on each side of the herd driving and guiding the cattle to where they need to go. These two different models serve as a reminder of two different ways to lead a church.
 
