@@ -57,4 +57,4 @@ I am passionate about sharing life with others on the spiritual journey of faith
   I graduated Summa Cum Laude from Lee University with a Bachelor of Arts in Biblical Education with minor in New Testament Greek. After graduation I continued my studies at the Church of God School of Theology at Lee University where I graduated Summa Cum Laude with a Master of Divinity (M.Div). During my M.Div studies I won both the academic excellence and leadership awards. My senior theological paper/thesis was _Tough Faith: My Search of Honest Durable Christianity_.
 
 
-[FULL CV/RESUME](https://www.visualcv.com/imdavidbrett)
+[FULL CV/RESUME](https://leeuniversity.academia.edu/DavidBrett)
