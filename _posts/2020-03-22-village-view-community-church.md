@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why I love Village View Community Church"
+description: "David Brett is a purpose pastor at Village View Community Church. In this capacity he is an integral part of a variety of ministries"
 categories:
 - church
 feature_image: "/images/unsplash/neonbrand-771BfGqMtTs-unsplash.jpg"

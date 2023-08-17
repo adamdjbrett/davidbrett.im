@@ -1,5 +1,6 @@
 ---
 title: "May 18 2023 devotion on 1 Kings 3:3"
+description: "I am encouraged to love with my heart. Mind. Soul. And strength. I am even challenged to love my neighbor as myself. Help me, Lord Jesus. I can't do this on my own or in my own strength. I need your empowerment to do it. In Jesus name amen."
 categories:
 - devotion
 ---

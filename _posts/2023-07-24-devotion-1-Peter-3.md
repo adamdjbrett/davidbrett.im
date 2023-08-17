@@ -1,5 +1,6 @@
 ---
 title: "July 23, 2023 devotion on 1 Peter 3:8-9"
+description: "It is interesting to note Simon Peter tells us to speak blessings on the person. To let go of the need to enact justice on my terms and my timetable. Give it to God."
 categories:
 - devotion
 ---

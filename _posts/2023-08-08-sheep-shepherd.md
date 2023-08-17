@@ -1,5 +1,6 @@
 ---
 title: "The Good Shepherd"
+description: "I would most thoroughly embrace a model of leadership that is follow me as I follow Jesus. That is the sheep / shepherd approach. The other model is usually this is what you ought to be doing."
 categories:
 - devotion
 ---

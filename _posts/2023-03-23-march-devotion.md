@@ -1,5 +1,6 @@
 ---
 title: "March 23 2023 devotion on 1 Corinthians 8:1-2"
+description: "Paul is answering questions sent to him about issues in the church at Corinth. In chapter 8 he addresses the issue of meat offered to idols. As he opens chapter 8 the first three verses stand out to me. (Read verses) Knowledge makes us feel important."
 categories:
 - devotion
 ---

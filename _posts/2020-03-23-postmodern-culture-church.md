@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Space Between Postmodern Culture and The Church Today"
+description: "One of the prevailing trends in culture today is an ever growing schism between the church and culture. Increasingly people are not going to church or if they are going to church they participate in the intimate anonymity of going to church on Sunday mornings but not necessarily engaging in other parts of the life of the church."
 categories:
 - postmodernism
 feature_image: "/images/unsplash/andrew-seaman-Y3WEhjQivTI-unsplash.jpg"

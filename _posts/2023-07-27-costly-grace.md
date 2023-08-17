@@ -1,5 +1,6 @@
 ---
 title: "Costly Grace"
+description: "I would describe cheap grace as grace offered without consequence. It would be communion without reflection or repentance. Communion as a tradition or a ritual and not as a sacrament a holy moment in time to reflect on the state of your soul."
 categories:
 - devotion
 ---
