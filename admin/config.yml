@@ -1,39 +1,96 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (master by default)
+  repo: adamdjbrett/davidbrett.im
+  branch: main 
+media_folder: 'assets/'
+collections:
+  - name: "indexs"
+    label: "Home Page"
+    extension: "md"
+    editor:
+      preview: true
+    files:
+     - file: "index.md"
+       label: "Home Page Area"
+       name: "index"
+       widget: "object"
+       fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Feature Text', name: 'feature_text', widget: 'string' }
+          - { label: 'Feature Image', name: 'feature_image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
 
-media_folder: "images/uploads" # Folder where user uploaded files should go
+  - name: "abo"
+    label: "About Page"
+    extension: "md"
+    editor:
+      preview: true
+    files:
+     - file: "about.md"
+       label: "About Page Area"
+       name: "about"
+       widget: "object"
+       fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Posts" # Used in the UI, ie
-    label_singular: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Featured image", name: "feature_image", widget: "image", required: false}
-      - {label: "Feature text", name: "feature_text", widget: "markdown", required: false}
-      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
-      - {label: "Meta image", name: "image", widget: "image", required: false}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-  - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Pages" # Used in the UI, ie
-    label_singular: "Page" # Used in the UI, ie.: "New Post"
-    folder: "/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Featured image", name: "feature_image", widget: "image", required: false}
-      - {label: "Feature text", name: "feature_text", widget: "markdown", required: false}
-      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Meta image", name: "image", widget: "image", required: false}
+  - name: "ct"
+    label: "Contact Page"
+    extension: "md"
+    editor:
+      preview: true
+    files:
+     - file: "contact.md"
+       label: "Contact Page Area"
+       name: "contact"
+       widget: "object"
+       fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'posts'
+    label: 'Blog Posting'
+    folder: '_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    editor:
+      preview: true
+    fields:
+    - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+    - { label: 'Feature Image', name: 'feature_image', widget: 'image' }
+    - { label: 'Title', name: 'title', widget: 'string' }
+    - { label: 'Description', name: 'description', widget: 'string' }
+    - { label: 'Categories', name: 'categories', widget: 'string' }
+    - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: "configs"
+    label: "Configuration"
+    extension: "yml"
+    editor:
+      preview: false
+    files:
+     - file: "_config.yml"
+       label: "Config Site"
+       name: "conf"
+       widget: list
+       fields:
+         - { name: 'title', label: 'Title', widget: 'string' }
+         - { name: 'description', label: 'Description', widget: 'string' }
+         - { name: 'url', label: 'URL', widget: 'string'}
+         - { name: 'logo', label: 'Logo', widget: 'image'}
+         - { name: 'paginate', label: 'Pagination', widget: 'number'}
+         - name: 'navigation_header'
+           label: 'Navigation Header' 
+           widget: 'list'
+           fields:
+           - { name: 'title', label: 'Title', widget: 'string' }
+           - { name: 'url', label: 'URL Link', widget: 'string' }
+         - name: 'navigation_footer'
+           label: 'Navigation Footer' 
+           widget: 'list'
+           fields:
+           - { name: 'title', label: 'Title', widget: 'string' }
+           - { name: 'url', label: 'URL Link', widget: 'string' }
