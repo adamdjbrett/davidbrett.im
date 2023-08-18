@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: adamdjbrett/davidbrett.im
-  branch: main 
+  branch: master 
 media_folder: 'assets/'
 collections:
   - name: "indexs"
