@@ -35,6 +35,11 @@
       <meta property="og:title" content="{{ collectiondata.title }}">
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">
+      {% if page_feature_image %}
+      <meta property="og:image" content="{{ page_feature_image }}">
+      {% elsif site.logo %}
+      <meta property="og:image" content="{{ site.logo }}">
+      {% endif %}
     {% else %}
       {% seo %}
     {% endif %}
