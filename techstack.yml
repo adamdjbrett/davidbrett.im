@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/davidbrett.im
-report_id: 8ad56231c031993bb8c767c008e2af91
+report_id: 0fd88a203d6dab78717e1d527cf5ec56
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:40:52+00:00'
+timestamp: '2024-01-05T08:42:43+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -35,6 +38,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im/blob/master/humans.txt
   detection_source: humans.txt
   last_updated_by: adamdjbrett
   last_updated_on: 2020-03-23 06:18:08.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: David Darnes
   last_updated_on: 2017-12-18 12:30:06.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: David Darnes
   last_updated_on: 2018-09-02 16:23:05.000000000 Z
@@ -76,6 +83,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im/blob/master/_includes/button.html
   detection_source: _includes/button.html
   last_updated_by: adamdjbrett
   last_updated_on: 2020-03-23 06:36:29.000000000 Z
@@ -101,6 +109,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/adamdjbrett/davidbrett.im/blob/master/humans.txt
   detection_source: humans.txt
   last_updated_by: adamdjbrett
   last_updated_on: 2020-03-23 06:18:08.000000000 Z
