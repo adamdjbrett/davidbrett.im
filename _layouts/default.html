@@ -4,7 +4,6 @@
   <head>
     <!-- General meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="yandex-verification" content="5f7f29e3fc78168e" />
     <!--favicon-->
     <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
@@ -58,6 +57,15 @@
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
     <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-47EFHM9EZX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-47EFHM9EZX');
+</script>
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
