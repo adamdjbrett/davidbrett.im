@@ -5,7 +5,7 @@ categories:
 ---
 > *For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them.* ~ Ephesians 2:10
 
-<!--more-->  
+  
 
 Paul is writing to the Ephesians. In chapter 2:10 he tells them, "*For we are His workmanship*..." The term workmanship is very interesting. It may be translated, "work of art," or even "piece of poetry." It is interesting to note that the world has seen some great works of art: Michelangelo's -- David, Van Gogh's -- self-portrait, Rembrandt's -- The Return of the Prodigal or his The Storm on the Sea. Great works of art evoke a deep emotion. It causes us to reflect on the subject matter, the technique. Discussion on what the artist intended. Great art does not come easy. It is pain staking. Difficult. It involves sacrifice.
 

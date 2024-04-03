@@ -6,7 +6,7 @@ categories:
 feature_image: /images/ben-white-1ujXUwqLfO8-unsplash.jpg
 ---
 I love Christmas. It can bring out the best in most people. Most people (notice the term "most") are friendlier. More generous. Kinder. To me Christmas brings back incredible memories of growing up as a kid in NE Ohio. Snow on the ground. Fire in the fireplace. Mom cooking all kinds of stuff in the kitchen. The tree. And most importantly the gifts under the tree with my name. The suspense would almost be unbearable. When no one was looking I would find the gifts with my name. I would shake'em. Squeeze them. Try to figure out what was inside. It rarely worked.
-<!--more-->  
+  
 Christmas also reminds me of the gift given to us in the person of Jesus Christ. The baby born in Bethlehem. I step back and note that it all began with Adam and Eve in the garden with freedom to eat from any tree except one -- the one that they eventually choose to eat from. Genesis 3 explains the serious consequence of their misuse of choice. Paul in Romans 4 describes how their choice was in fact our choice as well because of our genetic connection to them. Genesis 3 notes how everything changed in that moment. But within that chapter -- specifically Genesis 3:15 is a promise. You have to look closely but it is there. Listen carefully...
 
 > And I will put enmity  
