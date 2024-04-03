@@ -1,5 +1,5 @@
 # Set theme
-theme: alembic-jekyll-theme
+theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
@@ -14,9 +14,11 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
+- jekyll-remote-theme
 
 # Site settings
 url: 'https://www.davidbrett.im'
@@ -55,5 +57,5 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-       Welcome to the blog
+       Welcome to my blog
     feature_image: "/images/unsplash/tomas-robertson-M_duJG81Kv4-unsplash.jpg"
