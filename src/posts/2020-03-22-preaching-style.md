@@ -6,7 +6,7 @@ categories:
 - Preaching
 images: # relative to /src/assets/images/
   feature: /unsplash/ash-willson-QzP-K01fC2c-unsplash.jpg
-  thumb: /unsplash/ash-willson-QzP-K01fC2c-unsplash.jpg
+  thumb: /unsplash/ash-willson-QzP-K01fC2c-unsplash_tn.jpg
   slide:
   align: object-top
 ---

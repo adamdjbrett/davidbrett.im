@@ -6,7 +6,7 @@ categories:
 - pastor
 images: # relative to /src/assets/images/
   feature: /unsplash/thom-holmes-k-xKzowQRn8-unsplash.jpg
-  thumb: /unsplash/thom-holmes-k-xKzowQRn8-unsplash.jpg
+  thumb: /unsplash/thom-holmes-k-xKzowQRn8-unsplash_tn.jpg
   slide:
   align: object-bottom
 ---

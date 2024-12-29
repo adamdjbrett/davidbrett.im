@@ -6,7 +6,7 @@ categories:
 - church
 images: # relative to /src/assets/images/
   feature: /unsplash/karl-fredrickson-86DI4OKDkCc-unsplash.jpg
-  thumb: /unsplash/karl-fredrickson-86DI4OKDkCc-unsplash.jpg
+  thumb: /unsplash/karl-fredrickson-86DI4OKDkCc-unsplash_tn.jpg
   slide:
   align: object-top
 ---

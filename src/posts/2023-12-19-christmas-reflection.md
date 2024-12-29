@@ -6,7 +6,7 @@ categories:
 - devotion
 images: # relative to /src/assets/images/
   feature: /unsplash/ben-white-1ujXUwqLfO8-unsplash.jpg
-  thumb: /unsplash/ben-white-1ujXUwqLfO8-unsplash.jpg
+  thumb: /unsplash/ben-white-1ujXUwqLfO8-unsplash_tn.jpg
   slide:
   align: object-center
 ---
