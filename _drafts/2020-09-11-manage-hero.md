@@ -48,6 +48,7 @@ tags:
   - customization
   - frontmatter
 ---
+batman
 
 This system ships with default support for full width Hero content of almost any height. This page is a live example of a `{{ hero }}` hero set to `{{ heroSettings.height.mobile }}` height.
 

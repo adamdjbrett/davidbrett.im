@@ -87,7 +87,7 @@ module.exports = {
 	 *        'postListStyle' and 'tagListStyle.'
 	 *
 	 * */
-	postListStyle: 'postslistcards',
+	postListStyle: 'postslist',
 
 	/**
 	 * ===== Tag List Style Options =====
