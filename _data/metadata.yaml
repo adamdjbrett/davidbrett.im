@@ -1,0 +1,49 @@
+title: "David J. Brett"
+description: "A pastor serving in the Villages of Florida"
+favicon: "/images/djb-blue.png"
+image: "/images/unsplash/austin-ramsey-IvzvlKQwjk8-unsplash.jpg"
+language: "en"
+locale: "en_US"
+formspree_id: ""
+url: "https://davidbrett.im"
+metasocial: 
+ - facebook: "https://facebook.com/users"
+ - twitteruser: "@users"
+ - twitter: "https://x.com/users"
+nav_title: "DJB"
+navbar: 
+ - nav: "Home" 
+   link: "/"
+ - nav: "About" 
+   link: "/about/"
+ - nav: "Blog" 
+   link: "/blog/"
+ - nav: "Contact" 
+   link: "/contact/"
+ - nav: "Search" 
+   link: "/search/"
+blog: 
+ button: Exlpore All Post
+ url: /blog/
+footer: 
+  social: 
+      - title: "Follow Me on Linkedin" 
+        icon: "fab fa-linkedin"
+        link: "https://www.linkedin.com/in/davbrett/"
+      - title: "Follow Me on Facebook" 
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/david.brett.9275"
+      - title: "Github Repo" 
+        icon: "fas fa-school"
+        link: "https://leeuniversity.academia.edu/DavidBrett"
+  copyrights: © David J. Brett 2024
+  text1: Built with 
+  text2: Eleventy 11ty
+  text2_link: https://11ty.dev
+  text3: "| Developer"
+  text4: Adam Dj Brett
+  text4_link: https://adamdjbrett.com
+author: 
+ name: "David J Brett"
+ email: "dbrett@villageviewchurch.com"
+ url: "/about/"

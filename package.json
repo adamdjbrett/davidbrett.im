@@ -1,54 +1,46 @@
 {
-  "name": "sr-11ty-tailwind-alpine-template",
-  "version": "1.0.0",
-  "description": "Template for new projects with 11ty, TailwindCSS, TailwindUI, and Alpine.js",
-  "author": "Shane Robinson",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template/issues"
-  },
-  "homepage": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template.git"
-  },
-  "keywords": [
-    "11ty",
-    "TailwindCSS",
-    "TailwindUI",
-    "Alpine.js",
-    "webpack",
-    "PostCSS",
-    "CSSnano"
-  ],
-  "scripts": {
-    "clean": "rimraf dist",
-    "debug": "set DEBUG=* & eleventy",
-    "dev:tailwind": "npx tailwindcss -i src/assets/css/tailwind.css -o dist/css/styles.css --watch",
-    "dev:eleventy": "npx @11ty/eleventy --serve",
-    "dev": "npm-run-all clean --parallel dev:*",
-    "build:tailwind": "npx tailwindcss -i src/assets/css/tailwind.css -o dist/css/styles.css --minify",
-    "build:eleventy": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy",
-    "build": "NODE_ENV=production npm-run-all clean build:*"
-  },
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-navigation": "^0.3.5",
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
-    "@tailwindcss/forms": "^0.5.3",
-    "alpinejs": "^3.10.4",
-    "dotenv": "^16.0.3",
-    "eleventy-plugin-svg-sprite": "^1.3.0",
-    "luxon": "^3.2.1",
-    "markdown-it": "^13.0.1",
-    "markdown-it-emoji": "^2.0.2",
-    "npm-run-all": "^4.1.5",
-    "rimraf": "^3.0.2",
-    "slugify": "^1.6.5",
-    "tailwindcss": "^3.1.8"
-  },
-  "dependencies": {
-    "debug": "^4.3.4"
-  }
+	"name": "david-j-brett",
+	"version": "1.0.1",
+	"description": "A pastor serving in the Villages of Florida",
+	"type": "module",
+	"scripts": {
+		"build": "npx @11ty/eleventy",
+		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/davidbrett.im/",
+		"start": "npx @11ty/eleventy --serve --quiet",
+		"start-ghpages": "npx @11ty/eleventy --pathprefix=/davidbrett.im/ --serve --quiet",
+		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
+		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
+		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/adamdjbrett/davidbrett.im.git"
+	},
+	"author": {
+		"name": "Adam Dj Brett",
+		"email": "info@adamdjbrett.com",
+		"url": "https://adamdjbrett.com/"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=18"
+	},
+	"homepage": "https://davidbrett.im",
+	"devDependencies": {
+		"@11ty/eleventy": "^3.0.0",
+		"@11ty/eleventy-img": "^5.0.0",
+		"@11ty/eleventy-navigation": "^0.3.5",
+		"@11ty/eleventy-plugin-rss": "^2.0.2",
+		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+		"cross-env": "^7.0.3",
+		"luxon": "^3.5.0",
+		"zod": "^3.23.8",
+		"zod-validation-error": "^3.3.1"
+	},
+	"dependencies": {
+		"@zachleat/heading-anchors": "^1.0.1",
+		"clean-css": "^5.3.3",
+		"eleventy-plugin-pwa-v2": "^1.0.2"
+	}
 }
