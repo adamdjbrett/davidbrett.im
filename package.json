@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/mesinkasir/davidbrett.im.git"
+		"url": "git://github.com/adamdjbrett/davidbrett.im.git"
 	},
 	"author": {
 		"name": "Adam Dj Brett",
@@ -26,7 +26,7 @@
 	"engines": {
 		"node": ">=18"
 	},
-	"homepage": "https://mesinkasir.github.io/davidbrett.im",
+	"homepage": "https://davidbrett.im",
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0",
 		"@11ty/eleventy-img": "^5.0.0",

@@ -18,6 +18,17 @@ Change Log
 + Tags Page
 + List Tags Page
 + Contact page with contact form
++ 11ty Minify CSS
+
+---
+
+## Desktop Test
+
+![Desktop Peform](desktop.png)
+
+## Mobile Test
+
+![Mobile Peform](mobile.png)
 
 ---
 
