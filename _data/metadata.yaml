@@ -4,12 +4,12 @@ favicon: "/images/djb-blue.png"
 image: "/images/unsplash/austin-ramsey-IvzvlKQwjk8-unsplash.jpg"
 language: "en"
 locale: "en_US"
-formspree_id: ""
+formspree_id: "https://formspree.io/f/mzzzapep"
 url: "https://davidbrett.im"
 metasocial: 
- - facebook: "https://facebook.com/users"
- - twitteruser: "@users"
- - twitter: "https://x.com/users"
+ - facebook: "https://www.facebook.com/david.brett.9275"
+ - twitteruser: "@pastordavbrett"
+ - twitter: "https://x.com/pastordavbrett"
 nav_title: "DJB"
 navbar: 
  - nav: "Home" 
@@ -33,17 +33,20 @@ footer:
       - title: "Follow Me on Facebook" 
         icon: "fab fa-facebook"
         link: "https://www.facebook.com/david.brett.9275"
-      - title: "Github Repo" 
-        icon: "fas fa-school"
+      - title: "Follow Me on Academia.edu" 
+        icon: "fa-solid fa-graduation-cap"
         link: "https://leeuniversity.academia.edu/DavidBrett"
-  copyrights: © David J. Brett 2024
+      - title: "Follow Me on RSS"
+        icon: "fas fa-rss"
+        link: "/feed/feed.xml"
+  copyrights: "(CC BY-NC 4.0) License, David J. Brett"
   text1: Built with 
   text2: Eleventy 11ty
   text2_link: https://11ty.dev
-  text3: "| Developer"
-  text4: Adam Dj Brett
+  text3: "| Developed by"
+  text4: Adam DJ Brett
   text4_link: https://adamdjbrett.com
 author: 
  name: "David J Brett"
- email: "dbrett@villageviewchurch.com"
+ email: "hello@davidbrett.im"
  url: "/about/"

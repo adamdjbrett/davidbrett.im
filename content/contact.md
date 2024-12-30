@@ -1,5 +1,5 @@
 ---
-title: Contact David J. Brett
+title: Contact
 ---
 You can reach David J. Brett via email or the form below <dbrett@villageviewchurch.com>:
 

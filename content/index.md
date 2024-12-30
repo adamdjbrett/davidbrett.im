@@ -1,6 +1,5 @@
 ---
 layout: home.njk
-image: /images/unsplash/austin-ramsey-IvzvlKQwjk8-unsplash.jpg
 ---
 ## Engaging postmodern culture and the church.
 
