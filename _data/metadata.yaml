@@ -39,8 +39,8 @@ footer:
       - title: "Follow Me on RSS"
         icon: "fas fa-rss"
         link: "/feed/feed.xml"
-  copyrights: "(CC BY-NC 4.0) License, David J. Brett&nbsp;"
-  text1: Built with 
+  copyrights: "(CC BY-NC 4.0) License, David J. Brett "
+  text1: " Built with "
   text2: Eleventy 11ty
   text2_link: https://11ty.dev
   text3: "| Developed by"
