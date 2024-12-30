@@ -1,8 +1,8 @@
 ---
 title: "Some Thoughts on Life and Ministry"
+image: "/images/unsplash/andrik-langfield-1-YQiOijio8-unsplash.jpg"
 tags:
  - pastor
-image: "/images/unsplash/andrik-langfield-1-YQiOijio8-unsplash.jpg"
 ---
 I am a pastor. It is both my vocation, and it is my life's calling. I would say that it is who I am. I would say that you don't choose to pastor because if you do you won't last long at it. It is not like when you were in high school and they had a Career Day so you walk in the gym and see the pastor table and think "that looks like a lot of fun."
 * * *

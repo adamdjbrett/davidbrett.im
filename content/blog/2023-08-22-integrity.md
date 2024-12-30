@@ -1,8 +1,8 @@
 ---
 title: Integrity
-tags: devotion
-feature_image: /assets/brett-jordan-pd3ml1yrplg-unsplash.jpg
 image: /assets/brett-jordan-pd3ml1yrplg-unsplash.jpg
+tags: 
+  - devotion
 ---
 > This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters. If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person? Dear children, let us not love with words or speech but with actions and in truth. ~ 1 John 3:16-18
 
