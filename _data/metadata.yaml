@@ -1,6 +1,6 @@
 title: "David J. Brett"
 description: "A pastor serving in the Villages of Florida"
-favicon: "/images/djb-blue.png"
+favicon: "/logo.svg"
 image: "/images/unsplash/austin-ramsey-IvzvlKQwjk8-unsplash.jpg"
 language: "en"
 locale: "en_US"
@@ -39,7 +39,7 @@ footer:
       - title: "Follow Me on RSS"
         icon: "fas fa-rss"
         link: "/feed/feed.xml"
-  copyrights: "(CC BY-NC 4.0) License, David J. Brett"
+  copyrights: "(CC BY-NC 4.0) License, David J. Brett&nbsp;"
   text1: Built with 
   text2: Eleventy 11ty
   text2_link: https://11ty.dev

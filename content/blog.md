@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
-description: My thoughts and devotions
+title: Blog
+description: "Thoughts, Reflections, and Devotions"
 pagination:
   data: collections.posts
   size: 10
