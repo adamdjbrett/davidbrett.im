@@ -3,7 +3,7 @@ title: Welcome to my blog
 description: My thoughts and devotions
 pagination:
   data: collections.posts
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1
