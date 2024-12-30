@@ -1,11 +1,12 @@
 # David J Brett
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2b06263-1530-44e1-87a5-4625ca6e877c/deploy-status)](https://app.netlify.com/sites/davidbrettim/deploys)
 
-A New version of David J Brett
+## Version 3.0 for [David J. Brett](https://davidbrett.im)
 
 Change Log
 
 + Full Migration from jekyll in to 11ty aka eleventy
-+ Replace configuration Js / JSON data with YAML / YML
++ Replace configuration Js / JSON data with YAML/YML
 + Convert base themes in to 11ty
 + Migration all assets
 + Migration all articles
@@ -45,7 +46,7 @@ You can update name, email and url link
 ```
 author: 
  name: "David J Brett"
- email: "dbrett@villageviewchurch.com"
+ email: "hello@davidbrett.im"
  url: "/about/"
 ```
 
@@ -87,5 +88,5 @@ You can add `image` in to page or blog article posts.
 
 ---
 
-The 11ty Project by [Adam Dj Brett](https://adamdjbrett.com)
+The 11ty Project by [Adam DJ Brett](https://adamdjbrett.com)
 
