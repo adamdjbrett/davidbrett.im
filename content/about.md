@@ -1,5 +1,7 @@
 ---
 title: About
+description: 
+image: /images/og-image.jpg
 ---
 David Brett is passionate about sharing life with others and being on the spiritual journey of faith. He loves to help people live into their callings, emerge into ministry, pursue their spiritual gifts, and experience spiritual transformation.
 
