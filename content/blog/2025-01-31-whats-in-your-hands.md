@@ -17,15 +17,15 @@ God has a dream. A mission. A purpose for you! For all of us. He's whispering in
 
 God isn't waiting until you have more money or a husband or a wife or a new car or a better job so he can use you. He can use you now. He can use your passion...
 
--       for mechanics,
--       your gift for music,
--       your calling to teach,
--       your interest in architecture,
--       your kindness and generosity,
--       your strength,
--       your carpentry skills,
--       your sports ability, your knowledge of science, or Math or History or the Bible,
--       or anything that he has gifted you to do -- to know -- and to use for his kingdom
+- for mechanics,
+- your gift for music,
+- your calling to teach,
+- your interest in architecture,
+- your kindness and generosity,
+- your strength,
+- your carpentry skills,
+- your sports ability, your knowledge of science, or Math or History or the Bible,
+- or anything that he has gifted you to do -- to know -- and to use for his kingdom
 
 Stop waiting to wake up one morning and be richer, smarter, better off, more popular, more famous, more whatever.  Where are you now?  What's in your hands? Moses' mother had the reeds of the Nile River in her hands, and she wove a basket for a baby that would grow up and lead a nation. A little boy had a lunch 5 loaves and 2 fish Jesus used them to feed 5,000. Hannah had a child of promise who grew up to be a prophet. Ruth had a handful of grain and great kindness, and she is listed in the genealogy of Jesus.
 
