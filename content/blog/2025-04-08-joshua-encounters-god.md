@@ -35,5 +35,5 @@ Years ago, someone told me, “Jesus is lord of all, or he is not lord at all.�
 Lord Jesus, I come to you. I commit. I surrender my life to you. I am at your beckon call. I long to hear your voice and then walk in obedience you. You are my Lord. My savior. My God. And King. My life is in your hands. In Jesus name amen.
 
 * * *
-**Some of the above thoughts were inspired by Timothy Keller in a podcast entitled “Joshua and the General.”
-**
+
+**Some of the above thoughts were inspired by Timothy Keller in a podcast entitled “Joshua and the General.”**
