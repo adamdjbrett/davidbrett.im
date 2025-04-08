@@ -1,6 +1,6 @@
 ---
-Title: "Whose side are you on?"
-description: "Joshua is being told to take off his shoes, because he is on holy ground. The language is almost identical. Joshua knew in this moment that it was not a man standing in front of him, neither was it an angel, it was God. It is a theophany. A physical manifestation of God in the moment. He is very much in the very same place that his friend Moses was 40 years earlier Joshua is in a face-to-face encounter with God."
+title: "Whose side are you on?"
+description: "Joshua is being told to take off his shoes, because he is on holy ground. The language is almost identical. Joshua knew in this moment that it was not a man standing in front of him, neither was it an angel, it was God. It is a theophany."
 categories:
 - devotion
 ---
