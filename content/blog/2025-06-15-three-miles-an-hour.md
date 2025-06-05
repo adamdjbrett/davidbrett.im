@@ -4,9 +4,10 @@ description: "Paul is writing a word of correction to the church at Corinth. Pau
 categories:
 - devotion
 ---
-
 > Follow my example, as I follow the example of Christ. ~1 Corinthians 11:1
-  
+  
+* * *
+    
 Paul is writing a word of correction to the church at Corinth. Paul launched the church years earlier. He led them for several years, and then he moved on to plant some other churches. Now the church is in turmoil. Paul’s first letter to the Corinthians is an attempt to bring correction and order back to the church. 
      It is interesting to observe that as he brings correction he says, Follow my example, as I follow the example of Christ. Sounds simple enough. But it is far more complex that it seems. Paul lived in the first century. I live in the twenty-first century. 2000 years have elapsed since Paul or even Jesus walked the earth. 
      Someone recently pointed out to me that Jesus and Paul lived life at three miles an hour. That is the basic speed that humans walk. Now granted some folks in th    e first century had horses and chariots and traveled faster than three miles an hour. They are more of the exemption than the rule. 
