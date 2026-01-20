@@ -1,0 +1,13 @@
+---
+title: "Looking back, looking ahead"
+description: "This time of year, I find myself looking back not just at the last year but at a lot of things. Looking back is a dangerous thing. You can romanticize the past. Remember only the good stuff, and forget the challenges, obstacles, and heartache. Or, dwell only on the mistakes and the failures. A healthy, honest look back is both. I don’t want to rewrite my past either positively or negatively. I want to be able to look back and learn and grow."
+categories:
+- devotion
+---
+> No, dear brothers and sisters, I have not achieved it, but I focus on this one thing: Forgetting the past and looking forward to what lies ahead, I press on to reach the end of the race and receive the heavenly prize for which God, through Christ Jesus, is calling us. ~ Philippians 3:13-14
+
+This time of year, I find myself looking back not just at the last year but at a lot of things. Looking back is a dangerous thing. You can romanticize the past. Remember only the good stuff, and forget the challenges, obstacles, and heartache. Or, dwell only on the mistakes and the failures. A healthy, honest look back is both. I don’t want to rewrite my past either positively or negatively. I want to be able to look back and learn and grow.
+
+In Philippians 3, Paul is writing about how his past had a claim on him. To me, he is saying that his past claimed him. It defined him. In saying that, he is forgetting the past; he is saying it no longer defines him. He is moving on. But notice this as well. Whenever Paul shows up in a new city and visits the synagogue and its ruler, he introduces himself by reference to his past: born of the tribe of Benjamin, a Pharisee of Pharisees, circumcised on the eighth day. In other words, his past had become credentials in the present, opening doors to preach the gospel. To me, that is the healthiest way to use and recognize my past as an opportunity in the future. My past no longer defines me because my relationship with Jesus Christ defines me. He is my Lord. My redeemer. He is the one who reached into my life and offered me salvation and hope.
+
+He redefines who I am and how I live. My past no longer defines me. However, it is relevant to who I am and how it has shaped my life and at times it provides credentials in the present to open doors of opportunity. However, it is not what defines me. A greater, more powerful reality defines me – the love of God expressed through Jesus Christ. In that knowledge, I am secure. Amen.
