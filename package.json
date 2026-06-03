@@ -1,46 +1,48 @@
 {
-	"name": "david-j-brett",
-	"version": "1.0.1",
-	"description": "A pastor serving in the Villages of Florida",
-	"type": "module",
-	"scripts": {
-		"build": "npx @11ty/eleventy",
-		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/davidbrett.im/",
-		"start": "npx @11ty/eleventy --serve --quiet",
-		"start-ghpages": "npx @11ty/eleventy --pathprefix=/davidbrett.im/ --serve --quiet",
-		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/adamdjbrett/davidbrett.im.git"
-	},
-	"author": {
-		"name": "Adam Dj Brett",
-		"email": "info@adamdjbrett.com",
-		"url": "https://adamdjbrett.com/"
-	},
-	"license": "MIT",
-	"engines": {
-		"node": ">=18"
-	},
-	"homepage": "https://davidbrett.im",
-	"devDependencies": {
-		"@11ty/eleventy": "^3.1.1",
-		"@11ty/eleventy-img": "^5.0.0",
-		"@11ty/eleventy-navigation": "^0.3.5",
-		"@11ty/eleventy-plugin-rss": "^2.0.2",
-		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-		"cross-env": "^7.0.3",
-		"luxon": "^3.5.0",
-		"zod": "^3.23.8",
-		"zod-validation-error": "^3.3.1"
-	},
-	"dependencies": {
-		"@zachleat/heading-anchors": "^1.0.1",
-		"clean-css": "^5.3.3",
-		"eleventy-plugin-pwa-v2": "^1.0.2"
-	}
+  "name": "david-j-brett",
+  "version": "1.0.1",
+  "description": "A pastor serving in the Villages of Florida",
+  "type": "module",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/davidbrett.im/",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "start-ghpages": "npx @11ty/eleventy --pathprefix=/davidbrett.im/ --serve --quiet",
+    "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
+    "debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
+    "benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adamdjbrett/davidbrett.im.git"
+  },
+  "author": {
+    "name": "Adam Dj Brett",
+    "email": "info@adamdjbrett.com",
+    "url": "https://adamdjbrett.com/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=24",
+    "npm": ">=11.14.0"
+  },
+  "homepage": "https://davidbrett.im",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-img": "^5.0.0",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "cross-env": "^7.0.3",
+    "luxon": "^3.5.0",
+    "zod": "^3.23.8",
+    "zod-validation-error": "^3.3.1"
+  },
+  "dependencies": {
+    "@zachleat/heading-anchors": "^1.0.1",
+    "clean-css": "^5.3.3",
+    "eleventy-plugin-pwa-v2": "^1.0.2"
+  },
+  "packageManager": "npm@11.14.0"
 }
