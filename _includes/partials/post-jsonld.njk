@@ -1,0 +1,39 @@
+{%- set postData = post.data -%}
+{%- set postUrl = metadata.url + post.url -%}
+{%- set postTitle = postData.title or metadata.title -%}
+{%- set postDescription = postData.description or postData.summary or metadata.description -%}
+{%- set postImage = postData.image or metadata.image -%}
+{%- set authorName = metadata.author.name or metadata.title -%}
+{%- set authorUrl = metadata.author.url or metadata.url -%}
+{%- if authorUrl and not ("http" in authorUrl) -%}{%- set authorUrl = metadata.url + authorUrl -%}{%- endif -%}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": {{ (postUrl + "#metadata") | dump | safe }},
+  "name": {{ postTitle | dump | safe }},
+  "headline": {{ postTitle | dump | safe }},
+  "description": {{ postDescription | dump | safe }},
+  "url": {{ postUrl | dump | safe }},
+  "identifier": {{ postUrl | dump | safe }},
+  "inLanguage": {{ metadata.language | dump | safe }},
+  "datePublished": {{ post.date | htmlDateString | dump | safe }},
+  "dateModified": {{ (postData.updated or postData.modified or post.date) | htmlDateString | dump | safe }},
+  "author": {
+    "@type": "Person",
+    "name": {{ authorName | dump | safe }},
+    "url": {{ authorUrl | dump | safe }}
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": {{ authorName | dump | safe }},
+    "url": {{ metadata.url | dump | safe }}
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": {{ (metadata.url + "/#blog") | dump | safe }},
+    "name": {{ metadata.title | dump | safe }},
+    "url": {{ metadata.url | dump | safe }}
+  }{% if postImage %},
+  "image": {{ ((metadata.url + postImage) if "/" == postImage[0] else postImage) | dump | safe }}{% endif %}{% if postData.citations %},
+  "citation": {{ postData.citations | dump | safe }}{% endif %}
+}

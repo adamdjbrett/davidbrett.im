@@ -1,0 +1,19 @@
+---
+permalink: /metadata.json
+layout: false
+eleventyExcludeFromCollections: true
+---
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": {{ (metadata.url + "/#website") | dump | safe }},
+  "name": {{ metadata.title | dump | safe }},
+  "description": {{ metadata.description | dump | safe }},
+  "url": {{ metadata.url | dump | safe }},
+  "inLanguage": {{ metadata.language | dump | safe }},
+  "publisher": {
+    "@type": "Person",
+    "name": {{ metadata.author.name | dump | safe }},
+    "url": {{ metadata.url | dump | safe }}
+  }
+}

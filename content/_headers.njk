@@ -1,0 +1,16 @@
+---
+permalink: /_headers
+layout: false
+eleventyExcludeFromCollections: true
+---
+/metadata.json
+  Content-Type: application/ld+json
+
+{% for post in collections.posts -%}
+{{ post.url }}
+  Link: <{{ post.url }}metadata.json>; rel="describedby"; type="application/ld+json"; profile="https://schema.org/", <{{ metadata.url }}{{ post.url }}>; rel="cite-as", <https://schema.org/BlogPosting>; rel="type"
+
+{{ post.url }}metadata.json
+  Content-Type: application/ld+json
+
+{% endfor -%}
